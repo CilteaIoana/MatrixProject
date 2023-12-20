@@ -24,4 +24,26 @@ c) Control Lumina Matrice (folosind functia setIntensity din biblioteca ledContr
 D) Despre: Acesta optiune ofera detalii despre creatorul jocului.<br></br>
 
 In Timpul Jocului:<br></br>
-In timp ce jocul se desfasoara, se afiseaza toate informatiile relevante pentru jucator: timpul raman si scorul.
+In timp ce jocul se desfasoara, se afiseaza toate informatiile relevante pentru jucator: timpul ramas si scorul.
+
+Componente:<br></br>
+* 8x8 LED matrix
+* Matrix driver
+* Joystick
+* Buzzer
+* LCD
+* Resistors
+* Cables
+* Arduino Uno Board
+* 10 uF 50V capacitor
+* 104 ceramic capacitor
+* potentiometer
+
+<strong>Setup: </strong> 
+
+![setup1](https://github.com/CilteaIoana/MatrixProject/assets/115061960/b0ebdbe0-bfe4-469b-bddb-3c72cc085959)
+
+![setup2](https://github.com/CilteaIoana/MatrixProject/assets/115061960/081a8961-f1ae-480f-9875-19c99766639e)
+
+<strong>Demo: </strong> 
+https://www.youtube.com/watch?v=XShE0xEro9c&ab_channel=IoanaC.
