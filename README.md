@@ -8,7 +8,7 @@ Am hotarat sa-i ofer jucatorului controlul asupra unui punct mobil pe ecran. Nu 
 
 Misiunea:<br></br> mancarea cat mai multor mere:
 Misiunea jocului ramane aceeasi: Trebuie sa te concentrezi pentru a colecta cat mai multe mere care apar aleatoriu pe ecran. <br></br>
-<br></br>
+
 Controlarea timpului:<br></br>
 Si pentru a adauga o nota de competitie, am limitat timpul de joc la 15 secunde. In aceasta perioada scurta, trebuie sa te concentrezi la maxim si sa aduni cat mai multe mere posibil.
 
