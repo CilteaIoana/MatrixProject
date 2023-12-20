@@ -11,8 +11,8 @@ Si pentru a adauga o nota de competitie, am limitat timpul de joc la 15 secunde.
 
 <strong>Cerinte pentru Meniul Jocului:</strong> 
 
-Mesaj de Introducere la Pornirea Jocului:<br></br>
-Cand jocul este pornit, se afiseaza un mesaj de bun venit pe ecranul LCD pentru cateva secunde. 
+Mesaj de Introducere la Pornirea Jocului:
+-> Cand jocul este pornit, se afiseaza un mesaj de bun venit pe ecranul LCD pentru cateva secunde. 
 
 Meniul cu Categoriile Urmatoare:<br></br>
 a) Start Joc: Aceasta optiune permite jucatorului sa inceapa jocul. <br></br>
