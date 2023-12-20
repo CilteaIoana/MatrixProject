@@ -18,7 +18,7 @@ Mesaj de Introducere la Pornirea Jocului:
 Cand jocul este pornit, se afiseaza un mesaj de bun venit pe ecranul LCD pentru cateva secunde. 
 
 Meniul cu Categoriile Urmatoare:
-a) Start Joc: Aceasta optiune permite jucatorului sa inceapa jocul.
+a) Start Joc: Aceasta optiune permite jucatorului sa inceapa jocul. <br></br>
 b) Control Lumina LCD (obligatoriu): Jucatorul poate ajusta luminozitatea ecranului LCD. Aceasta ajustare trebuie sa afecteze un fir LED conectat direct la 5V. 
 c) Control Lumina Matrice (folosind functia setIntensity din biblioteca ledControl): Jucatorul poate ajusta luminozitatea matricei de LED-uri. Se afiseaza toate ledurile de pe matrice pentru a indica nivelul de lumina selectat. 
 D) Despre: Acesta optiune ofera detalii despre creatorul jocului.
