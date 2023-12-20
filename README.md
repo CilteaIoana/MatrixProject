@@ -1,10 +1,7 @@
 # MatrixProject
 
 Am luat conceptul clasic al jocului "Snake" si l-am adus intr-o alta forma:
-In loc sa controlez un sarpe lung care creste pe masura ce mananca mere, am hotarat sa fac ceva diferit.<br></br>
-
-Jucatorul devine un simplu punct mobil:
-Am hotarat sa-i ofer jucatorului controlul asupra unui punct mobil pe ecran. Nu mai este vorba despre un sarpe, ci despre un simplu punct care se deplaseaza in toate directiile. <br></br>
+In loc sa controlez un sarpe lung care creste pe masura ce mananca mere, am hotarat sa fac ceva diferit: am hotarat sa-i ofer jucatorului controlul asupra unui punct mobil pe ecran. Nu mai este vorba despre un sarpe, ci despre un simplu punct care se deplaseaza in toate directiile. <br></br>
 
 Misiunea:<br></br> mancarea cat mai multor mere:
 Misiunea jocului ramane aceeasi: Trebuie sa te concentrezi pentru a colecta cat mai multe mere care apar aleatoriu pe ecran. <br></br>
