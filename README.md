@@ -19,7 +19,7 @@ This project brings a refreshing twist to the traditional Snake game. Instead of
 ### 4. 🔧 Menu Functionalities
 - **🔆 Matrix Brightness Adjustment**: Players can adjust the brightness of the LED matrix, enhancing the visual experience.
 - **💡 LCD Brightness Control**: The brightness of the LCD can also be adjusted for better visibility and comfort.
-- **ℹ️ About Section**: This menu option provides information about the game, including a link to your GitHub profile and your name, offering insight into the creator behind the project.
+- **ℹ️ About Section**: This menu option displays the creator's GitHub username.  (mine 🌟)
 
 ### 5. 🔍 Potentiometer for LCD Contrast
 - A potentiometer is integrated to adjust the LCD's contrast, ensuring optimal readability under various lighting conditions.
